@@ -1,6 +1,7 @@
 # Steps
 
 # Game Project
+
 Instrucciones para correr el juego
 
 ```sh
