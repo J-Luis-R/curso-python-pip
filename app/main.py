@@ -14,10 +14,10 @@ def run():
     # data = read_csv("data.csv")
     
     df = pd.read_csv("data.csv")
-    # print(df)
-    # print("-"*80)
+    print(df)
+    print("-"*80)
     df = df[df['Continent'] == 'South America']
-    # print(df)
+    print(df)
     
     countries = df['Country'].values
     percentages = df['World Population Percentage']
