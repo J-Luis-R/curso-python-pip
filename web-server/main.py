@@ -18,6 +18,7 @@ def read_items():
         <body>
             <h1>Look ma! HTML</h1>
             <p>This is a pharaf</p>
+            <p>Este es otro parrafo en español</p>
         </body>
     </html>
     """
